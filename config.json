@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Criando uma API REST com FastAPI",
+      "description": "Construção de uma API REST para gerenciar livros usando rotas, validação e operações CRUD com FastAPI.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Practice working with Python strings, file I/O, and text manipulation by analyzing a text file and generating a report.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }

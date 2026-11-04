@@ -1,0 +1,3 @@
+Python is a versatile programming language.
+Text processing with Python can be simple and useful.
+With strings, files, and a few clear steps, Python can turn text into useful information.
