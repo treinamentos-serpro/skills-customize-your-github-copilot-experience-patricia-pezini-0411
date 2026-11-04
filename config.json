@@ -91,6 +91,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "automated-testing-error-handling",
+      "title": "Testes Automatizados e Tratamento de Erros",
+      "description": "Prática de testes com unittest para funções de texto e endpoints FastAPI, incluindo respostas de erro e validação.",
+      "path": "assignments/automated-testing-error-handling",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
